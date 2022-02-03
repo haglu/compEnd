@@ -1,0 +1,6 @@
+^compEnd\.Rproj$
+^\.Rproj\.user$
+^compEnd\.Rcheck$
+^compEnd.*\.tar\.gz$
+^compEnd.*\.tgz$
+^LICENSE\.md$
